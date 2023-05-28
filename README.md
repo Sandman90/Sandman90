@@ -1,8 +1,9 @@
-### Hi there 👋
+### Welcome 👋
+
+✨ _SandBay_ ✨ was created for the purpose of bringing to the world all the possibilities that technology can offer.
+A small corner of paradise without walls but with a boundless sea of possibilities.
 
 <!--
-**Sandman90/Sandman90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
