@@ -1,10 +1,13 @@
 ### Welcome 👋
 
+This is my place, this is SandBay.
+
 ✨ _SandBay_ ✨ was created for the purpose of bringing to the world all the possibilities that technology can offer.
+
 A small corner of paradise without walls but with a boundless sea of possibilities.
 
 - 🔭 I’m currently working on dreams.
-- 🌱 I’m currently learning all I can known.
+- 🌱 I’m currently learning all I can know.
 - 📫 How to reach me: https://www.sandbay.it/about/
 - ⚡ Fun fact: I'm a serious person.
 
